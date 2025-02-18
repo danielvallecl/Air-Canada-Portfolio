@@ -2,7 +2,7 @@
 
 # Air Canada Application Portfolio
 
-Portfolio of Applications Developed for Air Canada. Applications are proprietary and private.
+Portfolio of Applications Developed for Air Canada.
 
 - [Asset Management](https://github.com/danielvallecl/air-canada-applications/tree/main/ac-asset-management)
 
