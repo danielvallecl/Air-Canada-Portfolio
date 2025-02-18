@@ -6,6 +6,6 @@ Portfolio of Applications Developed for Air Canada.
 
 - [Asset Management](https://github.com/danielvallecl/air-canada-applications/tree/main/ac-asset-management)
 
-- [Work Planner](https://github.com/danielvallecl/air-canada-applications/tree/main/ac-triview-work-planner)
-
 - [Work Order Management](https://github.com/danielvallecl/air-canada-applications/tree/main/ac-triview-work-task)
+
+- [Work Planner](https://github.com/danielvallecl/air-canada-applications/tree/main/ac-triview-work-planner)
