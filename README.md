@@ -4,6 +4,8 @@
 
 Portfolio of Applications Developed for Air Canada.
 
+Note: These repositories are private and can be made available for review during programming interviews upon request.
+
 - [Asset Management](https://github.com/danielvallecl/air-canada-applications/tree/main/ac-asset-management)
 
 - [Work Order Management](https://github.com/danielvallecl/air-canada-applications/tree/main/ac-triview-work-task)
